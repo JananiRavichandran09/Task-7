@@ -2,6 +2,8 @@
 
  ## Using Array Methods
 
+ + Solving problems using array function on rest countries data
+
  `Map` `reduce` and `filter`
   
  +  map() 
